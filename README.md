@@ -1,4 +1,4 @@
-# Repositorio-Avaliativo-Poyatos
+# Repositório-Avaliativo-Poyatos
 Repositório Avaliativo do Curso de IoT para iniciantes
 
 *Projeto de Lâmpada automatizada com um Sensor de Presença.
