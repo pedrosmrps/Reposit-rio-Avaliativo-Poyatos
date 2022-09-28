@@ -11,3 +11,6 @@ Para isso, foi utilizado: um Arduino UNO, uma protoboard, um Sensor PIR, um Rel�
 <b>1)Esquema realizado no tinkercad:</b>
 <img src="Repositório Poyatos.png">
 
+<b>2)Em relação a programação em blocos:</b>
+<img src="Código Lampada.png">
+
