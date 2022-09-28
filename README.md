@@ -1,7 +1,7 @@
 # Repositorio-Avaliativo-Poyatos
 Repositório Avaliativo do Curso de IoT para iniciantes
 
-*Projeto de lâmpada automatizada com um Sensor de presença.
+*Projeto de Lâmpada automatizada com um Sensor de Presença.
 _______________________________________________________________________________________________________________________________________
 
 O objetivo desse protótipo, como na descrição acima ja diz, é fazer com que uma lâmpada ligue por meio da presença de alguém no ambiente.
