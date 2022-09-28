@@ -22,7 +22,7 @@ Eles foram divididos em 2 códigos, um pra quem deseja fazer a partir do arduino
 
 <a href="Repositório Poyatos.txt"><Código para o Arduino Físico></a>
   
-<a href="Repositório Poyatos.brd"><Código para o tinkercad></a>
+<a href="Repositório Poyatos.brd"><Código para o Tinkercad></a>
   
 _______________________________________________________________________________________________________________________________________
 
