@@ -20,3 +20,9 @@ Para isso, foi utilizado: um Arduino UNO, uma protoboard, um Sensor PIR, um Rel�
 
 Eles foram divididos em 2 códigos, um pra quem quer fazer a partir do arduino físico, e o outro pra quem quer fazer a partir do tinkercad:
 
+<a href="Repositório Poyatos.txt"><Código para o Arduino Físico></a>
+  
+<a href="Repositório Poyatos.brd"><Código para o tinkercad></a>
+  
+_______________________________________________________________________________________________________________________________________
+
